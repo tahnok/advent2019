@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/wes/.pyenv/versions/3.8.0/bin/python",
+    "python.pythonPath": "/home/wellis/.pyenv/versions/3.8.0/bin/python",
     "python.testing.unittestArgs": [
         "-v",
         "-s",
