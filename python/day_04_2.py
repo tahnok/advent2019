@@ -35,7 +35,7 @@ class Test(unittest.TestCase):
         self.assertEqual([1, 2, 3, 4], digits(1234))
 
     def test_pairwise(self):
-        self.assertEqual([(1,2), (2,3), (3,4)], pairwise([1,2,3,4]))
+        self.assertEqual([(1, 2), (2, 3), (3, 4)], pairwise([1, 2, 3, 4]))
 
     def test_has_double(self):
         self.assertEqual(True, has_double(112367))
